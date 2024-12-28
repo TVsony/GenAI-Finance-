@@ -1,1 +1,1 @@
-# GenAI-Finance-
+# GenAI Finance 
